@@ -25,5 +25,5 @@ Se introducen los datos de la canción y a qué album pertenece la misma (dato o
 ### Duración de la canción:
 Esta se va a subir en cantidad de segundos, luego la misma página va a traducirlo en minutos.
 
-## **DER**<br/>
+## **Diagrama Entidad-Relacióm (DER):**<br/>
 <img width="712" height="544" alt="derTEMP" src="https://github.com/user-attachments/assets/6898aa37-1c10-4047-9db9-88e8bbdf4426" />
