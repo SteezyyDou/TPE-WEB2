@@ -26,4 +26,5 @@ Se introducen los datos de la canción y a qué album pertenece la misma (dato o
 Esta se va a subir en cantidad de segundos, luego la misma página va a traducirlo en minutos.
 
 ## **Diagrama Entidad-Relación (DER):**<br/>
-<img width="1256" height="219" alt="image" src="https://github.com/user-attachments/assets/a92e8809-4095-41d8-aa93-51b0fc70e2df" />
+<img width="1014" height="248" alt="image" src="https://github.com/user-attachments/assets/1d9d68ec-5ede-4696-88c0-bfd8bcdc4915" />
+
