@@ -1,4 +1,3 @@
-<img width="1256" height="219" alt="image" src="https://github.com/user-attachments/assets/533fa7d2-d053-4a17-a814-b3aca1750bc2" />
 # **TPE-WEB2**
 
 ## **Integrantes**:
