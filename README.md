@@ -1,3 +1,4 @@
+<img width="1256" height="219" alt="image" src="https://github.com/user-attachments/assets/533fa7d2-d053-4a17-a814-b3aca1750bc2" />
 # **TPE-WEB2**
 
 ## **Integrantes**:
@@ -26,4 +27,4 @@ Se introducen los datos de la canción y a qué album pertenece la misma (dato o
 Esta se va a subir en cantidad de segundos, luego la misma página va a traducirlo en minutos.
 
 ## **Diagrama Entidad-Relación (DER):**<br/>
-<img width="712" height="544" alt="derTEMP" src="https://github.com/user-attachments/assets/6898aa37-1c10-4047-9db9-88e8bbdf4426" />
+<img width="1256" height="219" alt="image" src="https://github.com/user-attachments/assets/a92e8809-4095-41d8-aa93-51b0fc70e2df" />
